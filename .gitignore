@@ -1,2 +1,6 @@
 work/
 __pycache__/
+obj_dir/
+obj_dir/*
+venv/
+venv/*

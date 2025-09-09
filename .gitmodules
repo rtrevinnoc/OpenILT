@@ -1,0 +1,3 @@
+[submodule "thirdparty/pyverilator"]
+	path = thirdparty/pyverilator
+	url = git@github.com:rtrevinnoc/pyverilator.git
